@@ -10,5 +10,9 @@ Software: Jupyter Notebook, Pandas Library, CityPy, Python Request, APIs, JSON T
 
 1. Use the random function to generate 2,000 sets of coordinates (latitude and longitude), create a date frame that included cities, countries, weather information.
 With the users' preference inputs, we request the desired area and request destinations map using Google MAPs API. 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
+![Hotel mark](https://github.com/Sirius0531/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG)
+2. Use Google Map Direction APT to generates the travel route between 4 cities for user to travel by driving:
+![Hotel mark](https://github.com/Sirius0531/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)
+3. Pin out the hotel they will stay and shows the basic information of the hotels:
+![Hotel mark](https://github.com/Sirius0531/World_Weather_Analysis/blob/main/weather_database/WeatherPy_travel_map_markers.PNG)
+![Hotel mark](https://github.com/Sirius0531/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_nomarkers.PNG)
